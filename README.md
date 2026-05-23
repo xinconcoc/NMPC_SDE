@@ -1,4 +1,4 @@
-This is a tutorial introduction to nonlinear model predictive control (NMPC) for systems governed by 
+The goal of this repository is introduction to nonlinear model predictive control (NMPC) for systems governed by 
 stochastic differential equations (SDEs) that are observed at discrete times. 
 Such systems are called continuous-discrete systems and provide a natural representation of systems evolving in continuous-time. 
 Furthermore, this representation directly facilitates construction of the state estimator in the NMPC. 
